@@ -25,7 +25,14 @@
 			"client_email":"",
 			"client_phone":"",
 			"client_contact":""
-		}
+		},
+		"notes":[
+			{
+				"subject":"",
+				"body":""
+			}
+		],
+
 
 	}
 }
