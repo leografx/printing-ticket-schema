@@ -26,12 +26,52 @@
 			"client_phone":"",
 			"client_contact":""
 		},
-		"notes":[
+		"items":[
+			{
+				"subject":"",
+				"body":"",
+				"description": {
+					"quantity":"",
+					"paper_brand":"",
+					"paper_type":"",
+					"width":"",
+					"height":"",
+					"front_number_of_colors":"",
+					"back_number_of_colors":"",
+					"front_colors":[],
+					"back_colors":[]
+				}
+			}
+		],
+		"parent_sheet":[
+			{
+				"subject":"",
+				"body":"",
+				"size":"",
+				"trim_to":"",
+				"quantity":""
+			}
+		],
+		"artwork":[
+			{
+				"subject":"",
+				"body":"",
+			}
+		],
+		"prepress":[
+			{
+				"subject":"",
+				"body":"",
+			}
+		],
+		"printing":[
 			{
 				"subject":"",
 				"body":""
 			}
-		],
+		]
+
+
 
 
 	}
