@@ -1,0 +1,31 @@
+{
+	"ticket":{
+		"job_number":"",
+		"Ship_date":"",
+		"po_no":"",
+		"number_of_items":"",
+		"job_name":"",
+		"created_date":"",
+		"order_by":{
+			"customer_name":"",
+			"customer_address":"",
+			"customer_city":"",
+			"customer_state":"",
+			"customer_zip":"",
+			"customer_email":"",
+			"customer_phone":"",
+			"customer_contact":""
+		},
+		"ship_to":{
+			"client_name":"",
+			"client_address":"",
+			"client_city":"",
+			"client_state":"",
+			"client_zip":"",
+			"client_email":"",
+			"client_phone":"",
+			"client_contact":""
+		}
+
+	}
+}
