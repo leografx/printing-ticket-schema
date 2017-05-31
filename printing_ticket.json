@@ -67,12 +67,43 @@
 		"printing":[
 			{
 				"subject":"",
+				"body":"",
+				"run":"",
+				"paper":"",
+				"paper_quantity":"",
+				"paper_width":"",
+				"paper_height":"",
+				"front_number_of_colors":"",
+				"back_number_of_colors":"",
+				"signatures":[
+					{
+						"binding_style" : [ "Saddle Stich", "Perfect Bound","Flat","Cut & Stack","Come & Go","Other"],
+						"work_style":["S/W","W/Turn","Single Sided","W/Tumble","Perfect"],
+						"number":"",
+						"description":""
+					}
+				],
+
+			}
+		],
+		"bindery":[
+			{
+				"subject":"",
+				"body":"",
+				"finished_size":""
+			}
+		],
+		"packaging":[
+			{
+				"subject":"",
+				"body":""
+			}
+		],
+		"remarks":[
+			{
+				"subject":"",
 				"body":""
 			}
 		]
-
-
-
-
 	}
 }
